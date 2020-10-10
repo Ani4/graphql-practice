@@ -1,0 +1,10 @@
+{
+    "name": "graphql-practice",
+    "version": "1.0.0",
+    "description": "this repo is use to practice the graphql knowledge and implement them using a fullstack app",
+    "main": "index.js",
+    "author": "Ani4 <sharma.ani.4298@gmail.com>",
+    "license": "MIT",
+    "private": false,
+    "url": ""
+}
